@@ -1,4 +1,4 @@
-num = int(input())    
+num = 4   
 #num = input("Enter a number: ")
 #import sys
 #num = int ( sys.stdin.readline("enter num") )
