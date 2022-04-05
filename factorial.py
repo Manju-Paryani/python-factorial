@@ -1,5 +1,5 @@
-#num = int(input("Enter a number: "))    
-num = input("Enter a number: ")
+num = int(input())    
+#num = input("Enter a number: ")
 #import sys
 #num = int ( sys.stdin.readline("enter num") )
 factorial = 1    
