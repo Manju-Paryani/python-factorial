@@ -1,5 +1,7 @@
 #num = int(input("Enter a number: "))    
-num = input("Enter a number: ")
+#num = input("Enter a number: ")
+import sys
+num = int ( sys.stdin.readline("enter num") )
 factorial = 1    
 if num < 0:    
    print(" Factorial does not exist for negative numbers")    
